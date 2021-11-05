@@ -15,7 +15,7 @@ A collection of games I created
   <tr>
     <td>drawDesignDiwali.py</td>
     <td>Draws a colorful flower and wishes happy diwali. Number of petals in a layer, number of layers, narrowness of the petals, height of the text can be easily modified through the global parameters coded in the beginning of the program.</td>
-    <td><img src="https://github.com/Sujata018/Image-Processing/blob/main/images/P2/national-cancer-institute.jpg" ></td>
+    <td><img src="https://github.com/Sujata018/Fun-Games/blob/master/images/HappyFlower.JPG" ></td>
   </tr>
 
 </table>
