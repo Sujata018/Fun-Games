@@ -23,7 +23,7 @@ A collection of games I created
   <tr>
     <td>wormAnimation.py</td>
     <td>NEURON, Python, Matplotlib</td>
-    <td>Builds neuron structure of a worm (C. Elegan) consisting of sensory receptors, interneurons and motoneurons connecting to the muscles for movement. When different conditions (like introduction of chemical attractant, touching its head, light torch etc.) are introduced near the C. Elegan, using mouse clicks, the neuron system of the C. Elegan senses the condition, trnsfers firing through appropriate neurons and makes necassary movements. Movements are animated using Python and Matplotlib. The neuron firings are displayed using NEURON software and matplotlib.</td>
+    <td>Builds neuron structure of a worm (C. Elegan) consisting of sensory receptors, interneurons and motoneurons connecting to the muscles for movement. When different conditions (like introduction of chemical attractant, touching its head, light torch etc.) are introduced near the C. Elegan, using mouse clicks, the neuron system of the C. Elegan senses the condition, transfers firing through appropriate neurons and makes necassary movements. Movements are animated using Python and Matplotlib. The neuron firings are displayed using NEURON software and matplotlib.</td>
     <td><img src="https://github.com/Sujata018/Fun-Games/blob/master/images/WormAnimation.mp4" ></td>
   </tr>
 
